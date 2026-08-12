@@ -146,7 +146,7 @@ da plataforma é mantido separadamente.
 
 <div align="center">
 
-**Cordel 2.0 Inova Simples (I.S.)** — CNPJ 66.466.887/0001-16
+**Cordel 2.0 - Educação, Cultura e Inovação** — CNPJ 68.110.384/0001-39
 Formação em letramento digital com softwares próprios
 Salvador — Bahia — Brasil
 
