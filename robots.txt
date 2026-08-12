@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cordel2pontozero.github.io/registro-coletivo-apresentacao/sitemap.xml
