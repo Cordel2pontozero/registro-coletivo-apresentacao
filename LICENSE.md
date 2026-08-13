@@ -1,6 +1,6 @@
 # Licenciamento
 
-**Cordel 2.0 - Educação, Cultura e Inovação** — CNPJ 68.110.384/0001-39
+**Cordel 2.0 - Educação, Cultura e Inovação** - CNPJ 68.110.384/0001-39
 Copyright © 2026.
 
 ## O que este repositório contém
@@ -8,13 +8,13 @@ Copyright © 2026.
 Este repositório contém **apenas a página de apresentação** do Registro Coletivo. O código
 da plataforma é mantido separadamente.
 
-## Textos, identidade e materiais editoriais — CC BY-ND 4.0
+## Textos, identidade e materiais editoriais - CC BY-ND 4.0
 
 Textos institucionais, conteúdos editoriais, identidade visual, ilustrações e materiais
 autorais desta apresentação são licenciados sob **Creative Commons
-Atribuição–SemDerivações 4.0 Internacional**, salvo indicação em contrário.
+Atribuição-SemDerivações 4.0 Internacional**, salvo indicação em contrário.
 
-## Base cartográfica — ODbL
+## Base cartográfica - ODbL
 
 Os dados cartográficos do território provêm do **OpenStreetMap** e estão licenciados sob a
 [Open Database License](https://www.openstreetmap.org/copyright). A atribuição é mantida
@@ -22,7 +22,7 @@ nas páginas que exibem o território.
 
 ## Obras registradas
 
-As obras — cordéis, xilogravuras, textos — permanecem de **autoria de seus criadores**. O
+As obras - cordéis, xilogravuras, textos - permanecem de **autoria de seus criadores**. O
 registro no acervo não transfere direitos. O cordel de Dilma Santana citado nesta
 apresentação provém da antologia da Primeira Edição Alagados
 (ISBN 978-65-89484-02-8).

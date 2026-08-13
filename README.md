@@ -21,7 +21,7 @@
 
 Um cordel fala de uma praça. Uma xilogravura guarda uma feira. Uma sextilha nomeia a
 esquina onde alguém esperou. Quando essas obras são catalogadas, o lugar costuma virar uma
-linha de metadado — "Salvador, BA" — e o chão desaparece.
+linha de metadado - "Salvador, BA" - e o chão desaparece.
 
 O **Registro Coletivo** faz o contrário: **ancora cada obra no lugar que ela cita**, e
 oferece à comunidade um **construtor de espaços culturais em 3D** para erguer, sem escrever
@@ -34,10 +34,10 @@ código, os lugares nomeados nas obras.
 
 | | O que é |
 |---|---|
-| **O registro** | O acervo de obras — cordéis, xilogravuras, escrita popular — com autoria, procedência e vínculo com o território que a obra cita. É o sistema de verdade. |
+| **O registro** | O acervo de obras - cordéis, xilogravuras, escrita popular - com autoria, procedência e vínculo com o território que a obra cita. É o sistema de verdade. |
 | **O construtor** | Uma ferramenta para a comunidade levantar em 3D os lugares citados: a praça, o mercado, o terreiro, o campo. Sem programar. |
 
-A fonte de verdade é **agnóstica de motor** — coordenadas em JSON e peças em formatos
+A fonte de verdade é **agnóstica de motor** - coordenadas em JSON e peças em formatos
 abertos. O território pode ser reaberto em outro programa sem depender deste código.
 
 ## O primeiro território
@@ -48,14 +48,14 @@ O chão foi levantado a partir de **dados abertos** e há **uma obra ancorada**:
 **Dilma Santana**, citado da antologia da Primeira Edição Alagados
 (ISBN 978-65-89484-02-8).
 
-A Cordel 2.0 já trabalhou neste território — de **março a junho de 2025**, dentro do
+A Cordel 2.0 já trabalhou neste território - de **março a junho de 2025**, dentro do
 próprio Espaço Cultural. O vínculo com o lugar é real e anterior ao software.
 
 ## Estado honesto do projeto
 
 Este é um **protótipo**, e vale dizer com todas as letras o que ainda não aconteceu:
 
-- **nenhum lugar foi erguido pela comunidade** — o construtor não teve oficina ainda;
+- **nenhum lugar foi erguido pela comunidade** - o construtor não teve oficina ainda;
 - **nenhum marco foi colocado** por moradores;
 - **não há parceria formalizada** com nenhuma instituição;
 - **o nome definitivo do MVP será batizado com a comunidade**, não no escritório.
@@ -73,7 +73,7 @@ devendo à comunidade.
 requisição a terceiros na visita. Quem entra no território não é medido.
 
 **A cena não carrega junto com a página.** Quem chega vê um cartaz leve e decide se quer
-entrar. O alvo declarado é um **Android de entrada em rede 3G** — não um desktop de
+entrar. O alvo declarado é um **Android de entrada em rede 3G** - não um desktop de
 escritório.
 
 **Dados abertos, atribuídos.** A base cartográfica vem do OpenStreetMap, sob **ODbL**, com
@@ -87,7 +87,7 @@ enviar obras e erguer lugares. Até lá, não há dado de ninguém guardado em l
 O projeto trata conferência como parte do produto, não como etapa final:
 
 - a projeção cartográfica é auditada por **fórmula diferente** da usada para gerar a cena;
-- o texto de cada obra é conferido **caractere por caractere** contra o original — qualquer
+- o texto de cada obra é conferido **caractere por caractere** contra o original - qualquer
   diferença é tratada como falha grave;
 - o peso de cada página é medido e convertido em **segundos a 400 kbps**;
 - há varredura de credenciais antes de qualquer publicação.
@@ -134,7 +134,7 @@ O Registro Coletivo é um dos cinco softwares próprios da Cordel 2.0:
 | [**ARARA**](https://github.com/Cordel2pontozero/arara-apresentacao-oficial) | Trilhas de escrita e correção de redação ENEM |
 | [**INANNA**](https://github.com/Cordel2pontozero/Inanna-apresentacao-oficial) | Jogo de cordel que torna visível a previsão da próxima palavra |
 | [**TICA**](https://github.com/Cordel2pontozero/tica-apresentacao-oficial) | Chatbot reflexivo de escrita guiada |
-| **Registro Coletivo** | Território, xilogravura e construtor 3D — *este repositório* |
+| **Registro Coletivo** | Território, xilogravura e construtor 3D - *este repositório* |
 | [**Dataset Popular Brasileiro**](https://github.com/Cordel2pontozero/dataset-popular-Brasileiro) | Dataset aberto de cultura popular |
 
 ## Sobre este repositório
@@ -146,9 +146,9 @@ da plataforma é mantido separadamente.
 
 <div align="center">
 
-**Cordel 2.0 - Educação, Cultura e Inovação** — CNPJ 68.110.384/0001-39
+**Cordel 2.0 - Educação, Cultura e Inovação** - CNPJ 68.110.384/0001-39
 Formação em letramento digital com softwares próprios
-Salvador — Bahia — Brasil
+Salvador - Bahia - Brasil
 
 [www.cordel2pontozero.com](https://www.cordel2pontozero.com) · [contato@cordel2pontozero.com](mailto:contato@cordel2pontozero.com)
 
@@ -157,7 +157,7 @@ Salvador — Bahia — Brasil
 ## Licenciamento
 
 Textos institucionais, identidade visual e materiais autorais desta apresentação seguem
-**CC BY-ND 4.0** — ver [LICENSE.md](LICENSE.md).
+**CC BY-ND 4.0** - ver [LICENSE.md](LICENSE.md).
 
 A base cartográfica do território provém do **OpenStreetMap**, sob
 [ODbL](https://www.openstreetmap.org/copyright). As obras registradas permanecem de autoria

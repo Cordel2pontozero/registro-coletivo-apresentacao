@@ -1,4 +1,4 @@
-/* Cordel 2.0 — seletor de idioma para as vitrines publicadas no GitHub Pages.
+/* Cordel 2.0 - seletor de idioma para as vitrines publicadas no GitHub Pages.
    Português é o idioma de origem: fica escrito no próprio HTML e serve de fallback.
    O dicionário abaixo carrega apenas as traduções (en, zh-Hans). */
 
@@ -10,18 +10,18 @@ window.I18N_STRINGS = {
     "nav.formacao": "Training", "nav.visitar": "Visit",
     "hero.eyebrow": "Territorial archive · prototype",
     "hero.title": "The work anchored<br>to its own <em>ground.</em>",
-    "hero.lead": "A living record of popular writing and woodcut tied to the place each work names — and a 3D cultural-space builder so the community can raise those places without writing code.",
+    "hero.lead": "A living record of popular writing and woodcut tied to the place each work names - and a 3D cultural-space builder so the community can raise those places without writing code.",
     "hero.cta1": "Visit the territory", "hero.cta2": "Understand the project",
     "hero.s1": "Archive with provenance", "hero.s2": "3D builder", "hero.s3": "Open data", "hero.s4": "No tracking",
     "manifesto.index": "01 / POSITION",
     "manifesto.quote": "“A work is not born nowhere. When a catalogue reduces the ground to a line of metadata, the place disappears.”",
     "met.index": "02 / THE TWO HALVES",
     "met.title": "The archive is the record.<br>The 3D is a view.",
-    "met.lead": "If the builder falls, the record stands. The source of truth is engine-agnostic — coordinates in JSON and pieces in open formats.",
+    "met.lead": "If the builder falls, the record stands. The source of truth is engine-agnostic - coordinates in JSON and pieces in open formats.",
     "met.c1.n": "Record", "met.c1.h": "The archive",
     "met.c1.p": "Cordel booklets, woodcuts and popular writing with authorship, provenance and a link to the territory the work names.",
     "met.c2.n": "Builder", "met.c2.h": "The territory in 3D",
-    "met.c2.p": "The community raises the square, the market, the terreiro, the field — the places named in the works. Without programming.",
+    "met.c2.p": "The community raises the square, the market, the terreiro, the field - the places named in the works. Without programming.",
     "ter.index": "03 / TERRITORY",
     "ter.title": "Alagados,<br>Salvador.",
     "ter.lead": "The first territory is the area around Espaço Cultural Alagados. Cordel 2.0 worked there from March to June 2025, inside the Espaço itself. The bond with the place is real and predates the software.",
@@ -34,7 +34,7 @@ window.I18N_STRINGS = {
     "est.index": "04 / HONEST STATUS",
     "est.title": "What has not<br>happened yet.",
     "est.lead": "A community-based project that overstates its own reach starts out in debt to that community. So: this is a prototype.",
-    "est.k1": "Building workshop", "est.v1": "Not held yet — no place has been raised by the community",
+    "est.k1": "Building workshop", "est.v1": "Not held yet - no place has been raised by the community",
     "est.k2": "Community markers", "est.v2": "No marker placed by residents so far",
     "est.k3": "Partnerships", "est.v3": "None formalised with any institution",
     "est.k4": "What exists", "est.v4": "A navigable territory, one anchored work and the full product design",
@@ -44,7 +44,7 @@ window.I18N_STRINGS = {
     "dec.lead": "Design choices that say more about the product than any feature list.",
     "dec.s1": "Purely static", "dec.s1d": "No backend, account, cookie, analytics or third-party request during the visit.",
     "dec.s2": "The scene waits", "dec.s2d": "Visitors see a light poster first and decide whether to enter.",
-    "dec.s3": "Android on 3G", "dec.s3d": "The declared performance target — not an office desktop.",
+    "dec.s3": "Android on 3G", "dec.s3d": "The declared performance target - not an office desktop.",
     "dec.s4": "Open data", "dec.s4d": "OpenStreetMap under ODbL, credited in the footer.",
     "dec.s5": "Cross audit", "dec.s5d": "The projection is checked by a different formula than the one that generated the scene.",
     "dec.s6": "The verse checks out", "dec.s6d": "Publishing someone's verse wrongly erases the person while claiming to preserve them.",
@@ -60,7 +60,7 @@ window.I18N_STRINGS = {
     "cta.b1": "Talk about a partnership", "cta.b2": "Visit the territory →",
     "foot.tag": "Training in digital literacy with our own software",
     "foot.osm": "Base map © OpenStreetMap contributors, under ODbL.",
-    "foot.place": "Salvador — Bahia — Brazil"
+    "foot.place": "Salvador - Bahia - Brazil"
   },
 
   zh: {
@@ -70,18 +70,18 @@ window.I18N_STRINGS = {
     "nav.formacao": "培训", "nav.visitar": "参观",
     "hero.eyebrow": "地域档案 · 原型",
     "hero.title": "让作品锚定在<br>属于它的<em>土地上。</em>",
-    "hero.lead": "一份鲜活的民间写作与木刻记录，紧系于每件作品所指认的地方——并提供 3D 文化空间搭建工具，让社区无需写代码就能立起这些地方。",
+    "hero.lead": "一份鲜活的民间写作与木刻记录，紧系于每件作品所指认的地方--并提供 3D 文化空间搭建工具，让社区无需写代码就能立起这些地方。",
     "hero.cta1": "参观该地域", "hero.cta2": "了解这个项目",
     "hero.s1": "有来源的档案", "hero.s2": "3D 搭建器", "hero.s3": "开放数据", "hero.s4": "不做追踪",
     "manifesto.index": "01 / 立场",
     "manifesto.quote": "“作品不会诞生于虚空。当目录把土地压缩成一行元数据，地方就消失了。”",
     "met.index": "02 / 两个部分",
     "met.title": "档案是记录，<br>3D 只是视图。",
-    "met.lead": "即使搭建器倒下，记录依然屹立。真值来源与引擎无关——坐标存为 JSON，构件采用开放格式。",
+    "met.lead": "即使搭建器倒下，记录依然屹立。真值来源与引擎无关--坐标存为 JSON，构件采用开放格式。",
     "met.c1.n": "记录", "met.c1.h": "档案",
     "met.c1.p": "民谣诗册、木刻与民间写作，附带作者、来源，以及与作品所指地域的关联。",
     "met.c2.n": "搭建器", "met.c2.h": "3D 中的地域",
-    "met.c2.p": "由社区立起广场、集市、祭祀场与田野——作品中被指名的那些地方。无需编程。",
+    "met.c2.p": "由社区立起广场、集市、祭祀场与田野--作品中被指名的那些地方。无需编程。",
     "ter.index": "03 / 地域",
     "ter.title": "萨尔瓦多，<br>阿拉加多斯。",
     "ter.lead": "第一个地域是 Espaço Cultural Alagados 周边。Cordel 2.0 于 2025 年 3 月至 6 月就在该文化空间内工作。与这片土地的联系是真实的，且早于软件。",
@@ -94,7 +94,7 @@ window.I18N_STRINGS = {
     "est.index": "04 / 如实说明",
     "est.title": "尚未发生的<br>那些事。",
     "est.lead": "一个夸大自身成果的社区项目，从一开始就欠了社区。所以：这是一个原型。",
-    "est.k1": "搭建工作坊", "est.v1": "尚未举办——社区还没有立起任何地方",
+    "est.k1": "搭建工作坊", "est.v1": "尚未举办--社区还没有立起任何地方",
     "est.k2": "社区标记", "est.v2": "迄今没有居民放置过标记",
     "est.k3": "合作", "est.v3": "尚未与任何机构正式签约",
     "est.k4": "已有的部分", "est.v4": "可漫游的地域、一件已锚定的作品，以及完整的产品设计",
@@ -120,7 +120,7 @@ window.I18N_STRINGS = {
     "cta.b1": "洽谈合作", "cta.b2": "参观该地域 →",
     "foot.tag": "以自研软件开展数字素养培训",
     "foot.osm": "底图 © OpenStreetMap 贡献者，遵循 ODbL 协议。",
-    "foot.place": "萨尔瓦多 — 巴伊亚 — 巴西"
+    "foot.place": "萨尔瓦多 - 巴伊亚 - 巴西"
   }
 };
 
